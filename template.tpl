@@ -308,7 +308,7 @@ ___WEB_PERMISSIONS___
 ___TESTS___
 
 scenarios:
-- name: Basic init - script loads and varify.iid is set
+- name: Basic init - script loads and instance ID is set
   code: |-
     const mockData = {
       instanceId: '12345',
