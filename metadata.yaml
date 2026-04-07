@@ -1,5 +1,5 @@
 homepage: "https://varify.io"
 documentation: "https://github.com/newnorthdigital/varify-web-tag/blob/main/README.md"
 versions:
-  - sha: f9c7aa21bfde0443f1ab6d1f3a98033e4a6e6470
+  - sha: 0a9b2f8f3c5da734938ddb296b1b68ed0381ddf6
     changeNotes: "Initial release - Varify A/B testing script loader with consent-aware tracking activation."
