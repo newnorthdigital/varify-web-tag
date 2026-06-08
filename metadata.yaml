@@ -1,6 +1,8 @@
 homepage: "https://varify.io"
 documentation: "https://github.com/newnorthdigital/varify-web-tag/blob/main/README.md"
 versions:
+  - sha: f6f638c5e8dea84ba652022035076bb48a6934f8
+    changeNotes: "Rename displayName to 'Varify A/B Testing by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: f5419b96fbf4adb5e0522aabf0a531498a358c07
     changeNotes: "Resize oversized thumbnail to canonical 96x96 PNG."
   - sha: 0a9b2f8f3c5da734938ddb296b1b68ed0381ddf6
