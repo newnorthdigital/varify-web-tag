@@ -1,6 +1,8 @@
 homepage: "https://varify.io"
 documentation: "https://github.com/newnorthdigital/varify-web-tag/blob/main/README.md"
 versions:
+  - sha: 6bc672010bd388384d74ab2b8e5dbad1c92231de
+    changeNotes: 'NND-badge icon and shortened display name (by New North).'
   - sha: f6f638c5e8dea84ba652022035076bb48a6934f8
     changeNotes: "Rename displayName to 'Varify A/B Testing by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: f5419b96fbf4adb5e0522aabf0a531498a358c07
